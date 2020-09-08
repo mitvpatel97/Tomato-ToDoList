@@ -19,7 +19,7 @@ Actually using the project is pretty simple, just open a new tab and there will 
 
 Tasks by default will be due that day, so the progress bar underneath will be one color and it'll say "0 days left". If you would like to add a due date, simply include the date in your task after a `@`.
 
-For example, the following will add a task called `"this is a task"` due `August 31, 2018`.
+For example, the following will add a task called `"this is a task"` due `August 31, 2020`.
 
 `this is a task @8/31`
 
